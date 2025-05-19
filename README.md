@@ -21,3 +21,5 @@ DemandIQ is a Streamlit web app that helps retail businesses forecast demand, de
 ```bash
 pip install -r requirements.txt
 streamlit run app.py
+
+link:https://demandiq-5mfck2wu56ay9qrp2rvxbc.streamlit.app/
